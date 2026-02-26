@@ -1,6 +1,6 @@
 # Taller POO Tomás Vélez Duque y Alejandro González David
 
-Bueno profe, si ve que tenemos algunos comits muy cercanos en hora fue porque nos toco crear otro repositorio porque nos fallo una cosa.
+Bueno profe, si ve que tenemos algunos comits muy cercanos en hora fue porque nos toco crear otro repositorio porque nos fallo una cosa (ésto pasó aproximadamente unas 4 veces).
 
 ## Documentación.
 
