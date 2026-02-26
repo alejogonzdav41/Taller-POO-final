@@ -23,5 +23,7 @@ Las clases y métodos son públicos para que el programa principal pueda crear l
 
 Algunos atributos específicos de cada empleado como el salario o las horas se declararon como privados, porque solo deberían de ser usados dentro de su propia clase, para que con el encapsulamiento podamos controlar el acceso únicamente de forma controlada
 
+Ya en el main, pusimos la lista para guardar todos los empleados en una sola estructura, que guarda cualquier objeto que herede de la clase Empleado, como los empleados de tiempo completo o por horas, ya con el add se agrego y pusimos el for con el count que indica cuántos elementos hay para que se pueda mostrar la información de cada empleado, ya con esto si se agrega un tercer tipo de empleado es más fácil. 
+
 
 
