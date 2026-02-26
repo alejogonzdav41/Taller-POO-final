@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GestionEmpleados"
   ],
+  "SelectedNode": "\\GestionEmpleados\\EmpleadoPorHoras.cs",
   "PreviewInSolutionExplorer": false
 }
