@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\bin\Release\net10.0\GestionEmpleados.exe
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\bin\Release\net10.0\GestionEmpleados.deps.json
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\bin\Release\net10.0\GestionEmpleados.runtimeconfig.json
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\bin\Release\net10.0\GestionEmpleados.dll
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\bin\Release\net10.0\GestionEmpleados.pdb
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.sourcelink.json
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.dll
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\refint\GestionEmpleados.dll
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.pdb
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\GestionEmpleados.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Taller-POO-final\GestionEmpleados\obj\Release\net10.0\ref\GestionEmpleados.dll
